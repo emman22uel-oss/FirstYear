@@ -1,4 +1,3 @@
-//program by 25bee036 Emmanuel M.V.Isaac.
 #include <stdio.h>
 #include <stdlib.h>
 #define s 100
